@@ -15,7 +15,6 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'preservim/nerdtree'
 Plug 'ap/vim-css-color'
 Plug 'ryanoasis/vim-devicons'
-Plug 'tc50cal/vim-terminal'
 Plug 'mattn/emmet-vim'
 Plug 'tpope/vim-commentary'
 call plug#end()
