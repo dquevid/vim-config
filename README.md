@@ -8,12 +8,13 @@ File manager in my config is [NerdTree](https://github.com/preservim/nerdTree). 
 # Keymappings
 
 ### NerdTree
-
+```
   nnoremap <C-n> :NERDTree<CR>
   nnoremap <C-t> :NERDTreeToggle<CR>
   nnoremap <C-f> :NERDTreeFocus<CR>
-
+```
 ### coc-nvim
-
+```
   inoremap <C-Space> <Esc>:CocAction<CR>
   nnoremap <C-Space> <Esc>:CocAction<CR>
+```
